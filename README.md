@@ -1,4 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=af05ca&amp;textBg=false&amp;fontColor=FFF&amp;animation=fadeIn&">
+
 <img id="main_photo" src="https://cardivo.vercel.app/api?name=> Ziccur&amp;description= I'm%20Yeray,%20an%2019-year-old%20coding%20enthusiast.%20With%20GitHub%20as%20my%20playground,%20I'm%20always%20ready%20to%20dive%20into%20new%20projects.%20Oh,%20and%20the%20'%20;%20'%20it's%20my%20arch-nemesis.
 %F0%9F%91%8B&amp;image=https://avatars.githubusercontent.com/u/116493147?v=4&amp;fontColor=%23ffffff&amp;colorPattern=%23ffffff">
 
