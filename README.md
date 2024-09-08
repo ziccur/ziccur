@@ -19,8 +19,7 @@
   
   ### 🚀 \| Repository Stats
   
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=ziccur&amp;repo=util_scripts&amp;hide_border=false&amp;theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=ziccur&amp;repo=ZonaMedusa&amp;hide_border=false&amp;theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=ziccur&amp;repo=util_scripts&amp;hide_border=false&amp;theme=tokyonight"> <img src="https://github-readme-stats.vercel.app/api/pin?username=ziccur&amp;repo=ZonaMedusa&amp;hide_border=false&amp;theme=tokyonight">
 
   
   
